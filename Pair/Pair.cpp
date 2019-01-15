@@ -22,7 +22,5 @@ int main()
     cout << p.first;  //Gives the first element
     cout << p.second; // Gives the second element
 
-    cout << p.get("Rohan") << endl;
-
     return 0;
 }
