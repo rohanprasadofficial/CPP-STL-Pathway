@@ -67,5 +67,21 @@ int main()
     */
     s.empty() ? cout << "set is empty" << endl : cout << "set is not empty" << endl;
 
+    /*
+        Finding a value in set
+        find(data)  - find the data in set and return iterator to that element else returns iterator to last element
+
+    */
+
+    s.insert(34);
+    s.insert(35);
+    s.insert(36);
+
+    it = s.find(2);
+    cout << *it << endl; // As 2 is found
+
+    it = s.find(1223);
+    cout << *it << endl; // As 1223 is found it points to s.end()
+
     return 0;
 }
