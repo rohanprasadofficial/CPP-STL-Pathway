@@ -1,3 +1,6 @@
+![C++ Logo](https://miro.medium.com/max/600/1*Wd5q3FM1ne7y8y1Xojh-8g.png)
+
+
 # CPP STL Pathway
 
 Aims to curate path for learning C++ STL starting from basics.
