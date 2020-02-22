@@ -19,7 +19,7 @@ Aims to curate path for learning C++ STL starting from basics.
 ### Environment Details
 C++ 11 (It was my configuration but works with lesser version also) 
 
-This container mostly the code with no theory.
+This contain mostly the code with no theory.
 Would love to receive PRs. :) 
 
 
